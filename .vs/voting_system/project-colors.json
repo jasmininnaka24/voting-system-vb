@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b86a82c1-5a14-43d3-9e3e-65402ea6ecc1": {
+      "ProjectGuid": "b86a82c1-5a14-43d3-9e3e-65402ea6ecc1",
+      "DisplayName": "voting_system",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

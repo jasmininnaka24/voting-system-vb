@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HzYsxPhnEoC+MmtFe4dRLt8YSx0slw5RZ+OyVxFd3NHO0omyM4Rp0AVvQEp9ns94mLu9MwXbZUCD7TI+y+J2aQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jasmin\\Desktop\\INTO DESKTOP\\COLLEGE PROJECT\\Voting System\\voting_system\\voting_system\\voting_system.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jasmin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.9\\microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512",
+    "C:\\Users\\Jasmin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.9\\microsoft.windowsdesktop.app.ref.6.0.9.nupkg.sha512",
+    "C:\\Users\\Jasmin\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.9\\microsoft.netcore.app.host.win-x86.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

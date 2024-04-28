@@ -1,0 +1,60 @@
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\bin\Debug\net6.0-windows\voting_system.exe
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\bin\Debug\net6.0-windows\voting_system.deps.json
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\bin\Debug\net6.0-windows\voting_system.runtimeconfig.json
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\bin\Debug\net6.0-windows\voting_system.dll
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\bin\Debug\net6.0-windows\ref\voting_system.dll
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\bin\Debug\net6.0-windows\voting_system.pdb
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.vbproj.AssemblyReference.cache
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\Interop.ADODB.dll
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.vbproj.ResolveComReference.cache
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.Form1.resources
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.frmCandidateID.resources
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.vbproj.GenerateResource.cache
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.AssemblyInfoInputs.cache
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.AssemblyInfo.vb
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.vbproj.CoreCompileInputs.cache
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.dll
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\ref\voting_system.dll
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.pdb
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.genruntimeconfig.cache
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.frmCandidatePosition.resources
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.frmMayorCandidate.resources
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.frmVMayorCandidate.resources
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.frmSenatorCandidate.resources
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.frmCouncilorCandidate.resources
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.frmCandidatePartylist.resources
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.Form2.resources
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.frmCastVote.resources
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.frmLogin.resources
+C:\Users\Jasmin\Desktop\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.frmUserProfile.resources
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\bin\Debug\net6.0-windows\voting_system.exe
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\bin\Debug\net6.0-windows\voting_system.deps.json
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\bin\Debug\net6.0-windows\voting_system.runtimeconfig.json
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\bin\Debug\net6.0-windows\voting_system.dll
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\bin\Debug\net6.0-windows\ref\voting_system.dll
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\bin\Debug\net6.0-windows\voting_system.pdb
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.vbproj.AssemblyReference.cache
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\Interop.ADODB.dll
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.vbproj.ResolveComReference.cache
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.Form1.resources
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.Form2.resources
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.frmCandidateID.resources
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.frmCandidatePartylist.resources
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.frmCandidatePosition.resources
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.frmCastVote.resources
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.frmCouncilorCandidate.resources
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.frmLogin.resources
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.frmMayorCandidate.resources
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.frmSenatorCandidate.resources
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.frmUserProfile.resources
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.frmVMayorCandidate.resources
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.vbproj.GenerateResource.cache
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.AssemblyInfoInputs.cache
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.AssemblyInfo.vb
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.vbproj.CoreCompileInputs.cache
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.dll
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\ref\voting_system.dll
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.pdb
+C:\Users\Jasmin\Desktop\INTO DESKTOP\COLLEGE PROJECT\Voting System\voting_system\voting_system\obj\Debug\net6.0-windows\voting_system.genruntimeconfig.cache
